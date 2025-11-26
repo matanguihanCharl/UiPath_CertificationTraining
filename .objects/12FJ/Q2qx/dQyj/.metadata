@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Rpa Challenge",
+  "Type": "Screen",
+  "Id": "dQyjmmpTKEyt_ggSPEIKUw",
+  "Reference": "yS7CUXLqqEm15MqOMbxbKg/dQyjmmpTKEyt_ggSPEIKUw",
+  "ParentRef": "yS7CUXLqqEm15MqOMbxbKg/Q2qxec6g7EKy8RBDSwSNcA",
+  "Created": "2025-11-25T20:58:03.1050391Z",
+  "Updated": "2025-11-25T20:58:03.1050391Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

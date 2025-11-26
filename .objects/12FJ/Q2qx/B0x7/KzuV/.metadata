@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Invoices",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "KzuVvFwJikSvU_bkEeLm-A",
+  "Reference": "yS7CUXLqqEm15MqOMbxbKg/KzuVvFwJikSvU_bkEeLm-A",
+  "ParentRef": "yS7CUXLqqEm15MqOMbxbKg/B0x7v52bNUyKYZqYxjQ6gg",
+  "Created": "2025-11-26T11:30:24.3249629Z",
+  "Updated": "2025-11-26T11:30:24.3249629Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
