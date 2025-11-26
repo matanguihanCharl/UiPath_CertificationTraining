@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="BAXV-KmGhkGmT1NSIzpnGw" Reference="yS7CUXLqqEm15MqOMbxbKg/B0x7v52bNUyKYZqYxjQ6gg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" ContentHash="5UYvZsupD0ywVPMb_RPihA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARbSURBVFhHvZdtbFNVGMcf3axUxJdogohNkEUdLuGLEOMHDYo6ScAQPugXQSOJDIWIZO6FMrZuXVtu107LBmy+QMbGRiVLxEU/GNgsbH2/t71rxW3tYDEbW2UbY4rJsu0x517P7d3NWl1t/fBPe55zTv+/PD3nPOcAGNghMLC3wcBO/c8intcBDCxKqibyx9tpl1/0kMfAwE5KDZ0PQetGOOzJjLREbhHCJHiOE4ApMLJCZ/65iL2Bv7mz9KeRguIURecWdo4UHHKIIu2irpECo2vs/YOXhqtA70eoFDI9IQIQoiMe3NF+bXP+ga2QaamOcghHvAhGOUClF19pjexXDk63vgyOr8smABVKgAovbrFHP1JOSFWjM/NrN9T1dm9qizTI4w3szacTAuSnCQARH80yBRA+dCDsceDh7tELtM/qHksMsPWbOICmPtSoZoIs6Hzsa/aoTWlCtf6rXxxQ6fM+YAnyWXp2N4l13bizC3Z3ItTyCAe6EUwc0vE17lhigG3n4wBqc+AOVPgQip244XRfTGlMtbouhFDiRKjyIej8p2g854urCPsuC2qPTumWDPCglXdClR/hkBtfaO6/qDSmWnsiPCvsbYMfH/6ML5f3lXUO7yhxxZ6Vx04mWwMLACy8WwbQqTSWAcyTMQRguTlYoewnGvtj7i76vTEwnjkAlYmTANYcD6O6yof3MRxq6kO1NN7ET6QZ4GR4jgKoZRlYYQ0ifOoUjmAVE2BovCWUfgApA3IATX0IocwjFLfHbL1SvDndADkJAJ4gu4MA6P248vMUAB6y/muARf+ClADelAEsOxrwCFVL68aNTf2XlMZUuY3hGQHAKNR6ab+nBCA/CVdYgyGo9CEUOXFzW+QHpTGV5njcaLklaP5PAC+djUgA734/dAE+6UEo7MHnWwZGlMZU2UxQKOVQ7EIbG9tL448fSwHgxeY4wKnwxB7hKCVFRevGvtszTyrN5xHXQ6mLHMHCdrv++8wq2rfS1rt0gFfb4gBE6poAQqlHHFzuRe3lG++ZPbHc1p8n15V0DRcJtULPIuy7gs8199+Sz02UgaZkAG8oynHHr9N74Z2L4n2RrIdiF6pqgmK70CneIYnJBw6cnMPX5XM1ZA2Qv6baj6tsIalGJM2AEoDo7Y4hPxzsQfi4W5xEKh+5YJZ7kcRVOi/u/HFYOumowMgh7L8iLGLQs/U03hpeIgBRx+D0xrfaB797hAng/QyH2SYOV1v56V3fXjsz9OesSjme6OWzA7dyjvXOPtMQxk0tkSIaP80nKUaJANKpE2wSgHx7NOOX0q8D47kJAbbYo9uUEzKhe5nFruVlHtx+frD63NXJNbWeWJ7ZtVCMK5ZnccXyTM5RoW1ZZMw/qY797SnGNbY9myxQnVd6mIhPs2oWs4wcLmMCeLeRQ5KmdOseknoDJ54d4nNQeJqJDfJWI88lsr0IXSZEf1vxOB0QUmFgY4KMf39mQgt/m3j2/QUtMHhu5kDY7gAAAABJRU5ErkJggg==" Reference="yS7CUXLqqEm15MqOMbxbKg/B0x7v52bNUyKYZqYxjQ6gg" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" Url="https://acme-test.uipath.com/home" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="ee3b76798c4beef93a78549bf40cfc99.jpg" xmlns="">0dQMx5oiQP0S0z0asscKzOg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
